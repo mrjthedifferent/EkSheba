@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/toolbar"
+        style="@style/ToolBarStyle.Event"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#68318F"
+        android:minHeight="@dimen/abc_action_bar_default_height_material"
+        app:title="একসেবা" />
+
+    <RelativeLayout
+        android:id="@+id/top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="?attr/actionBarSize">
+
+        <ImageView
+            android:id="@+id/eks"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_centerHorizontal="true"
+            android:src="@mipmap/ic_launcher_foreground" />
+
+
+        <TextView
+            android:id="@+id/textGrid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/eks"
+            android:layout_centerInParent="true"
+            android:text="@string/eksheba"
+            android:textColor="@android:color/black"
+            android:textSize="34sp" />
+
+        <TextView
+            android:id="@+id/textGrid2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textGrid"
+            android:layout_centerInParent="true"
+            android:text="@string/moto"
+            android:textColor="@android:color/black"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/textGrid4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textGrid2"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="50dp"
+            android:text="ভার্সন - ১.১.২"
+            android:textColor="@android:color/black"
+            android:textSize="34sp" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/top"
+        android:layout_centerHorizontal="true">
+
+        <blink xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/blink"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true">
+
+            <Button
+                android:id="@+id/btn_update"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/textGrid2"
+                android:layout_alignBottom="@+id/textGrid2"
+                android:layout_alignStart="@+id/blink"
+                android:layout_marginStart="12dp"
+                android:text="Check for Updates"
+                android:textAllCaps="false"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textColor="#fc3737"
+                android:textStyle="bold"
+                android:theme="@style/mrjbutton" />
+
+        </blink>
+
+    </RelativeLayout>
+
+</RelativeLayout>

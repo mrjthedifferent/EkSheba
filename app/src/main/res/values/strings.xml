@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">একসেবা</string>
+    <string name="image_chooser">File Chooser</string>
+    <string name="eksheba">একসেবা</string>
+    <string name="moto">উদ্যোক্তার জন্য এক ঠিকানায় সব সেবা</string>
+    <string name="stamp">স্ট‍্যাম্প ভেন্ডর লাইসেন্স প্রাপ্তির আবেদন</string>
+    <string name="bibaho">বৈবাহিক/অবৈবাহিক সনদ প্রাপ্তির আবেদন</string>
+    <string name="kit">বালাইনাশক বিক্রয়ের লাইসেন্স প্রাপ্তির আবেদন</string>
+    <string name="bhata">অসচ্ছল প্রতিবন্ধী ভাতা মঞ্জুরীর জন্য আবেদন</string>
+    <string name="jubo">যুব উন্নয়ন অফিসে প্রশিক্ষণ কোর্সের ভর্তির আবেদন</string>
+    <string name="gadget">বাংলাদেশ গেজেটে প্রকাশিত নাম / তথ্য সংশোধনের জন্য আবেদনপত্র</string>
+    <string name="b_bhata">বয়স্ক ভাতা মঞ্জুরির আবেদনপত্র</string>
+    <string name="s_bhata">বিধবা/ স্বামী পরিত্যক্তা দুঃস্থ মহিলাদের ভাতা মঞ্জুরীর জন্য আবেদন</string>
+    <string name="ekshop">একশপ</string>
+    <string name="krishi">কৃষি উপকরণ সহায়তা কার্ড প্রাপ্তির আবেদন</string>
+    <string name="m_bhata">দারিদ্র মা’র জন্য মাতৃত্বকাল ভাতা মঞ্জুরীর আবেদনপত্র</string>
+    <string name="dead_cert">মৃত্যু সনদ প্রাপ্তির জন্য আবেদন</string>
+    <string name="ostro">আগ্নেয়াস্ত্রের লাইসেন্স প্রাপ্তির আবেদন</string>
+    <string name="mohila">“মহিলা ও শিশু সাহায্য তহবিল” হতে সাহায্যের আবেদন</string>
+    <string name="it">তথ্য কমিশনে অভিযোগ দায়ের ফরম</string>
+    <string name="stamp_renew">স্ট‍্যাম্প ভেন্ডর লাইসেন্স নবায়নের আবেদন</string>
+    <string name="owaz">ওয়াজ/ জিকির মাহফিল/ মহাযজ্ঞ ও লীলা কীর্তন/ ধর্মীয় অনুষ্ঠানে মাইক ব্যবহারের জন্য অনুমতি প্রাপ্তির আবেদন</string>
+    <string name="eiiit">ইট ভাটার লাইসেন্স নবায়নের আবেদন</string>
+    <string name="ostro_re">আগ্নেয়াস্ত্রের লাইসেন্স নবায়নের আবেদন</string>
+    <string name="petro">পেট্রোলিয়াম জাতীয় ব্যবসা পরিচালনার অনাপত্তিমূলক পত্র (এনওসি) প্রাপ্তির আবেদন</string>
+    <string name="prim">মাননীয় প্রধানমন্ত্রীর ত্রাণ ও কল্যাণ তহবিল হতে প্রাপ্ত আর্থিক অনুদানের চেক উত্তোলনের আবেদন</string>
+    <string name="hotel_license">আবাসিক হোটেলের লাইসেন্স প্রাপ্তির আবেদন</string>
+    <string name="acid">এসিড ও এসিড জাতীয় দ্রব্য বিক্রয়ের লাইসেন্স প্রাপ্তির আবেদন</string>
+    <string name="acid_re">এসিড ও এসিড জাতীয় দ্রব্য বিক্রয়ের লাইসেন্স নবায়নের আবেদন</string>
+    <string name="acid_per">এসিড ও এসিড জাতীয় দ্রব্য ব্যবহারের অনুমতি প্রাপ্তির আবেদন</string>
+    <string name="vata_korat">করাতকল/ইটভাটা/ফিলিং স্টেশন নির্মাণের নিমিত্ত জমির মালিকানা সনদ প্রাপ্তির আবেদন</string>
+    <string name="jomi_p">জমির শ্রেণি পরিবর্তনের আবেদন</string>
+    <string name="adibasi">আদিবাসী (ক্ষুদ্র নৃগোষ্ঠী) প্রত্যয়নপত্র পাবার আবেদন</string>
+    <string name="jomi_khoti">অধিগ্রহণকৃত জমির ক্ষতিপূরণের টাকা উত্তোলনের জন্য আবেদন</string>
+    <string name="jomi_simana">জমির সীমানা পিলার নির্ধারণের জন্য আবেদন</string>
+</resources>
